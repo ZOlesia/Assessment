@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Olesia\\Desktop\\Nintedo_Assessment\\Nintedo_Assessment.csproj",
-      "projectName": "Nintedo_Assessment",
-      "projectPath": "C:\\Users\\Olesia\\Desktop\\Nintedo_Assessment\\Nintedo_Assessment.csproj",
+      "projectUniqueName": "C:\\Users\\Olesia\\Desktop\\Assessment\\Assessment.csproj",
+      "projectName": "Assessment",
+      "projectPath": "C:\\Users\\Olesia\\Desktop\\Assessment\\Assessment.csproj",
       "packagesPath": "C:\\Users\\Olesia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Olesia\\Desktop\\Nintedo_Assessment\\obj\\",
+      "outputPath": "C:\\Users\\Olesia\\Desktop\\Assessment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 
-namespace Nintedo_Assessment
+namespace Assessment
 {
     class Program
     {
