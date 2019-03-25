@@ -6,6 +6,11 @@ namespace Assessment
 {
     class Program
     {
+        //please run dotnet restore in the terminal;
+        //please put the right path to the oldBackupFile and newBackupFile - line 80 and line 81;
+        //please edit path for the output files - line 17 and line 21;
+        //please run dotnet run in the terminal to build the project.
+
         public static void ReadingFile(string oldBackupFile, string newBackupFile){
 
                 //creating output files --> please edit the path if needed
