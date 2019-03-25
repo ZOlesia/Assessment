@@ -10,11 +10,11 @@ namespace Nintedo_Assessment
         public static void ReadingFile(string oldBackupFile, string newBackupFile){
 
                 //creating output files --> please edit the path if needed
-            var oldNotInNew = "C:/oldNotInNew.txt";
+            var oldNotInNew = "E:/oldNotInNew.txt";
             TextWriter tw2 = new StreamWriter(oldNotInNew);
             tw2.Close();
 
-            var newNotInOld = "C:/newNotInOld.txt";
+            var newNotInOld = "D:/newNotInOld.txt";
             TextWriter tw1 = new StreamWriter(newNotInOld);
             tw1.Close();
 
@@ -73,8 +73,8 @@ namespace Nintedo_Assessment
         }
         static void Main(string[] args)
         {
-            var oldBackupFile = "C:/Users/files/Old.sha1.txt";   // please put the right path to the Old.sha1.txt 
-            var newBackupFile = "C:/Users/files/New.sha1.txt";   // please put the right path to the New.sha1.txt 
+            var oldBackupFile = "C:/Users/Desktop/Old.sha1.txt";   // please put the right path to the Old.sha1.txt 
+            var newBackupFile = "C:/Users/Desktop/New.sha1.txt";   // please put the right path to the New.sha1.txt 
             ReadingFile(oldBackupFile, newBackupFile);
         }
     }
